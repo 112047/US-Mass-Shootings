@@ -1,0 +1,131 @@
+Year,Date,City,State,StateColour,Setting,Establishment,Fatalities,Injured,TotalVictims,ShooterName,ShooterGender,ShooterAge,ShooterRace,PriorMentalIssues,LegalWeapons,WeaponType,WeaponDetails
+2022,"Jun 01,",Tulsa,Oklahoma,Red,workplace,Tulsa medical center shooting,4,0,4,Michael Louis,Male,45,Black,U/D,Yes,"Semi-automatic rifle, semi-automatic handgun",AR-15 style rifle
+2022,"May 24,",Uvalde,Texas,Red,School,Robb Elementary School massacre,21,17,38,Salvador Ramos,Male,18,Hispanic,Yes,Yes,Semi-automatic rifles,U/D
+2022,"May 14,",Buffalo,New York,Blue,workplace,Buffalo supermarket massacre,10,3,13,Payton S. Gendron,Male,18,White,Yes,Yes,Semi-automatic rifle,Bushmaster XM-15
+2021,"Nov 30,",Oxford,Michigan,Blue,School,Oxford High School shooting,4,7,11,Ethan Robert Crumbley,Male,15,White,U/D,U/D,Semi-automatic handgun,Sig Sauer 9mm pistol
+2021,"May 26,",San Jose,California,Blue,Workplace,San Jose VTA shooting,9,0,9,Samuel Cassidy,Male,57,White,Yes,U/D,Semi-automatic handguns,U/D
+2021,"Apr 15,",Indianapolis,Indiana,Red,Workplace,FedEx warehouse shooting,8,7,15,Brandon Scott Hole,Male,19,White,Yes,Yes,Semi-automatic rifle,U/D
+2021,"Mar 31,",Orange,California,Blue,Workplace,Orange office complex shooting,4,1,5,Aminadab Gaxiola Gonzalez,Male,44,Hispanic,U/D,U/D,Semi-automatic handgun,U/D
+2021,"Mar 22,",Boulder,Colorado,Blue,Workplace,Boulder supermarket shooting,10,0,10,Ahmad Al Aliwi Alissa,Male,21,Arab,Yes,Yes,"Semi-automatic rifle, semi-automatic handgun",Ruger AR-556
+2020,"Feb 26,",Milwaukee,Wisconsin,Blue,Workplace,Molson Coors shooting,5,0,5,Anthony Ferrill,Male,51,Black,U/D,U/D,Semi-automatic handgun,U/D
+2019,"Dec 06,",Pensacola,Florida,Red,Military,Pensacola Naval base shooting,3,8,11,Ahmed Mohammed al-Shamrani,Male,21,Arab,U/D,U/D,Semi-automatic handgun,U/D
+2019,"Aug 31,",Odessa,Texas,Red,Other,Odessa-Midland shooting spree,7,25,32,Seth A. Ator,Male,36,White,Yes,U/D,Semi-automatic rifle,U/D
+2019,"Aug 04,",Dayton,Ohio,Red,Other,Dayton entertainment district shooting,9,27,36,Connor Betts,Male,24,White,U/D,Yes,Semi-automatic rifle,U/D
+2019,"Aug 03,",El Paso,Texas,Red,Workplace,El Paso Walmart mass shooting,22,26,48,Patrick Crusius,Male,21,White,U/D,Yes,Semi-automatic rifle,AK-47-style rifle
+2019,"Jul 28,",Gilroy,California,Blue,Other,Gilroy garlic festival shooting,3,12,15,Santino William LeGan,Male,19,White,U/D,Yes,Semi-automatic rifle,AK-47-style rifle
+2018,"Nov 19,",Chicago,Illinois,Blue,Workplace,Mercy Hospital shooting,3,0,3,Juan Lopez,Male,32,Hispanic,U/D,U/D,Semi-automatic handgun,9mm handgun
+2018,"Nov 07,",Thousand Oaks,California,Blue,Other,Thousand Oaks nightclub shooting,12,22,34,Ian David Long,Male,28,White,Yes,Yes,Semi-automatic handgun,"Glock 21, .45 caliber"
+2018,"Oct 27,",Pittsburgh,Pennsylvania,Blue,Religious,Tree of Life synagogue shooting,11,6,17,Robert D. Bowers,Male,46,White,U/D,Yes,"Semi-automatic rifle, semi-automatic handguns","AR-15, Glock .357"
+2018,"Sep 20,",Perryman,Maryland,Blue,Workplace,Rite Aid warehouse shooting,3,3,6,Snochia Moseley,Female,26,Black,U/D,Yes,Semi-automatic handgun,Glock 9 mm
+2018,"Sep 06,",Cincinnati,Ohio,Red,Workplace,Fifth Third Center shooting,3,2,5,Omar Enrique Santa Perez,Male,29,Hispanic,Yes,Yes,Semi-automatic handgun,9mm handgun
+2018,"Apr 22,",Nashville,Tennessee,Red,Other,Waffle House shooting,4,4,8,Travis Reinking,Male,29,White,Yes,Yes,Semi-automatic rifle,AR-15
+2018,"Mar 09,",Yountville,California,Blue,Workplace,Yountville veterans home shooting,3,0,3,Albert Cheung Wong,Male,36,Asian,Yes,Yes,"Semi-automatic rifle, shotgun",U/D
+2018,"Feb 14,",Parkland,Florida,Red,School,Marjory Stoneman Douglas High School shooting,17,17,34,Nikolas J. Cruz,Male,19,White,Yes,Yes,Semi-automatic rifle,AR-15
+2018,"Jan 28,",Melcroft,Pennsylvania,Blue,Other,Pennsylvania carwash shooting,4,1,5,Timothy O'Brien Smith,Male,28,White,U/D,U/D,"Semi-automatic rifle, semi-automatic handgun",U/D
+2017,"Nov 14,",Rancho Tehama,California,Blue,Other,Rancho Tehama shooting spree,5,10,15,Kevin Janson Neal,Male,44,White,U/D,No,Semi-automatic rifles,U/D
+2017,"Nov 05,",Sutherland Springs,Texas,Red,Religious,Texas First Baptist Church massacre,26,20,46,Devin Patrick Kelley,Male,26,White,Yes,U/D,Semi-automatic rifle,Ruger AR-556
+2017,"Nov 01,",Thornton,Colorado,Blue,Other,Walmart shooting in suburban Denver,3,0,3,Scott Allen Ostrem,Male,47,White,U/D,U/D,Semi-automatic handgun,U/D
+2017,"Jun 05,",Orlando,Florida,Red,Workplace,Florida awning manufacturer shooting,5,0,5,John Robert Neumann,Male,45,White,U/D,U/D,Semi-automatic handgun,U/D
+2017,"Jun 06,",Fort Lauderdale,Florida,Red,Airport,Fort Lauderdale airport shooting,5,6,11,Esteban Santiago,Male,26,Hispanic,Yes,Yes,Semi-automatic handgun,Walther 9mm semi-automatic pistol
+2016,"Jul 17,",Baton Rouge,Lousiana,Red,Other,Baton Rouge police shooting,3,3,6,Gavin Long,Male,29,Black,Yes,U/D,"Semi-automatic rifles, semi-automatic handgun","IWI Tavor SAR 5.56 caliber rifle, Springfield XD 9, 9mm"
+2016,"Jul 07,",Dallas,Texas,Red,Other,Dallas police shooting,5,11,16,Micah Xavier Johnson,Male,25,Black,U/D,Yes,"Semi-automatic rifle, semi-automatic handguns","Izhmash-Saiga 5.45mm semi-automatic rifle, Glock 9mm handgun, .25-caliber semiautomatic handgun"
+2016,"Jun 12,",Orlando,Florida,Red,Other,Orlando nightclub massacre,49,53,102,Omar Mateen,Male,29,Arab,U/D,Yes,"Semi-automatic rifle, semi-automatic handgun","Sig Sauer MCX rifle, Glock 17 9mm"
+2016,"Feb 25,",Hesston,Kansas,Red,Workplace,Excel Industries mass shooting,3,14,17,Cedric L. Ford,Male,38,Black,U/D,Yes,"Semi-automatic rifle, semi-automatic handgun","Zastava Serbia AK-47-style rifle, Glock Model 22 .40-caliber handgun"
+2016,"Feb 20,",Kalamazoo County,Michigan,Blue,Other,Kalamazoo shooting spree,6,2,8,Jason B. Dalton,Male,45,White,U/D,Yes,Semi-automatic handgun,9 mm handgun
+2015,"Dec 02,",San Bernardino,California,Blue,Workplace,San Bernardino mass shooting,14,21,35,Syed Rizwan Farook & Tashfeen Malik,Male & Female,28,Asian,U/D,Yes,"Assault rifles, semi-automatic pistols","Semi-automatic AR-15-style rifles, DPMS A-15, Smith & Wesson M&P15, .223 calibre ammunition, 9mm semi-automatic handgun"
+2015,"Jul 16,",Chattanooga,Tennessee,Red,Military,Chattanooga military recruitment center,5,2,7,Mohammod Youssuf Abdulazeez,Male,24,Arab,U/D,Yes,"Assault rifles, semi-automatic handgun","AK-47, AR-15, 9mm handgun"
+2014,"May 23,",Santa Barbara,California,Blue,School,Isla Vista mass murder,6,13,19,Elliot Rodger,Male,22,White,Yes,Yes,"Semi-automatic handgun, hunting knives","Sig Sauer P226 semi-automatic pistols, Glock 34 pistol, 6U/Dinch & 8-inch, hunting knives."
+2013,"Jul 26,",Hialeah,Florida,Red,Other,Hialeah apartment shooting,7,0,7,Pedro Vargas,Male,42,Hispanic,U/D,Yes,9mm semi-automatic handgun,Glock 17
+2013,"Apr 21,",Federal Way,Washington,Blue,Other,Pinewood Village Apartment shooting,5,0,5,Dennis Clark III,Male,27,Black,No,Yes,"Semi-automatic handgun, shotgun",".40 caliber semi-automatic handgun, pistol grip shotgun"
+2012,"Dec 14,",Newtown,Connecticut,Blue,School,Sandy Hook Elementary massacre,27,2,29,Adam Lanza,Male,20,White,Yes,No,"Semi-automatic handguns, assault rifle, shotgun","10mm Glock, 9mm SIG Sauer P226 semi-automatic handgun, .223 Bushmaster XM15-E2S semi-automatic rifle; Izhmash Saiga-12 12-gauge semi-automatic shotgun"
+2012,"Sep 27,",Minneapolis,Minnesota,Blue,Workplace,Accent Signage Systems shooting,7,1,8,Andrew Engeldinger,Male,36,White,Yes,Yes,Semi-automatic handgun,9mm Glock semi-automatic handgun
+2012,"Aug 05,",Oak Creek,Wisconsin,Blue,Religious,Sikh temple shooting,7,3,10,Wade Michael Page,Male,40,White,Yes,Yes,Semi-automatic handgun,9mm Springfield Armory XDM semi-automatic handgun
+2012,"Jul 20,",Aurora,Colorado,Blue,Other,Aurora theater shooting,12,70,82,James Holmes,Male,24,White,Yes,Yes,"Semi-automatic handguns, assault rifle, shotgun",".40-caliber Glock semi-automatic handguns, .223-caliber Smith & Wesson M&P15 semi-automatic rifle, 12-gauge Remington 870 pump-action shotgun"
+2012,"May 20,",Seattle,Washington,Blue,Other,Seattle cafe shooting,6,1,7,Ian Stawicki,Male,40,White,Yes,Yes,Semi-automatic handguns,.45-caliber semi-automatic handguns
+2012,"Apr 02,",Oakland,California,Blue,School,Oikos University killings,7,3,10,One L. Goh,Male,43,Asian,Yes,Yes,Semi-automatic handgun,.45-caliber semi-automatic handgun
+2012,"Feb 21,",Norcross,Georgia,Blue,Other,Su Jung Health Sauna shooting,5,0,5,Jeong Soo Paek,Male,59,Asian,Yes,Yes,Semi-automatic handgun,.45-caliber semi-automatic handgun
+2011,"Oct 12,",Seal Beach,California,Blue,Other,Seal Beach shooting,8,1,9,Scott Evans Dekraai,Male,42,White,Yes,Yes,"Semi-automatic handguns, revolver",".45-caliber Heckler & Koch, 9mm Springfield semi-automatic handguns; .44 Magnum Smith & Wesson revolver"
+2011,"Jan 08,",Tucson,Arizona,Blue,Other,Tucson shooting,6,13,19,Jared Loughner,Male,22,White,Yes,Yes,Semi-automatic handgun,9mm Glock 19 semi-automatic handgun
+2010,"Aug 03,",Manchester,Connecticut,Blue,Workplace,Hartford Beer Distributor shooting,9,2,11,Omar S. Thornton,Male,34,Black,No,Yes,Semi-automatic handguns,9mm Ruger SR9 semi-automatic handguns
+2009,"Nov 29,",Parkland,Washington,Blue,Other,Coffee shop police killings,4,1,5,Maurice Clemmons,Male,37,Black,Yes,No,Semi-automatic handgun,"9mm Glock, 17 semi-automatic handgun, .38-caliber Smith & Wesson revolver"
+2009,"Nov 05,",Fort Hood,Texas,Red,Military,Fort Hood massacre,13,31,44,Nidal Malik Hasan,Male,39,Arab,U/D,Yes,Semi-automatic handgun,FN Five-seven semi-automatic handgun
+2009,"Apr 03,",Binghamton,New York,Blue,Other,Binghamton shootings,14,4,18,Jiverly Wong,Male,41,Asian,Yes,Yes,Semi-automatic handguns,"9mm Beretta, .45-caliber Springfield semi-automatic handguns"
+2008,"Jun 25,",Henderson,Kentucky,Red,Workplace,Atlantis Plastics shooting,6,1,7,Wesley Neal Higdon,Male,25,White,No,Yes,Semi-automatic handgun,.45-caliber Hi-Point semiautomatic handgun
+2008,"Feb 14,",DeKalb,Illinois,Blue,School,Northern Illinois University shooting,5,21,26,Steven Kazmierczak,Male,27,White,Yes,Yes,"Semi-automatic handguns, shotgun","9mm Glock 19, Hi-Point CF380, 9mm Kurz SIG Sauer P232 semi-automatic handguns, 12-gauge Remington Sportsman 48 sawed-off shotgun"
+2008,"Feb 07,",Kirkwood,Missouri,Blue,Other,Kirkwood City Council shooting,6,2,8,"Charles ""Cookie"" Lee Thornton",Male,52,Black,No,No,"semi-automatic handgun, revolver",".40-caliber Smith & Wesson semi-automatic handgun, .44 Magnum Smith & Wesson Model 29 revolver"
+2007,"Apr 16,",Blacksburg,Virginia,Blue,School,Virginia Tech massacre,32,23,55,Seung-Hui Cho,Male,23,Asian,Yes,Yes,semi-automatic handguns,"9mm Glock 19, .22-caliber Walther P22 semi-automatic handguns"
+2006,"Oct 02,",Lancaster County,Pennsylvania,Blue,School,Amish school shooting,6,5,11,Charles Carl Roberts,Male,32,White,No,Yes,"semi-automatic handgun, rifle, shotgun","Springfield semi-automatic handgun, .30-06 Ruger bolt-action rifle, 12-gauge Browning pump-action shotgun"
+2006,"Mar 25,",Seattle,Washington,Blue,Other,Capitol Hill massacre,7,2,9,Kyle Aaron Huff,Male,28,White,No,Yes,"semi-automatic handguns, assault rifle, shotgun",".40-caliber Ruger, one other semi-automatic handgun; Bushmaster XM15 E2S semi-automatic rifle; 12-gauge Winchester Defender pump-action shotgun"
+2006,"Jan 30,",Goleta,California,Blue,Workplace,Goleta postal shootings,8,0,8,Jennifer Sanmarco,Female,44,White,Yes,Yes,semi-automatic handgun,9mm Smith & Wesson 915 semiautomatic handgun
+2005,"Mar 21,",Red Lake,Minnesota,Blue,School,Red Lake massacre,10,5,15,Jeffrey Weise,Male,16,Native American,Yes,No,"semi-automatic handguns, shotgun",".40-caliber Glock 23, .22-caliber Ruger semi-automatic handguns; 12-gauge Remington 870 shotgun"
+2005,"Mar 12,",Brookfield,Wisconsin,Blue,Religious,Living Church of God shooting,7,4,11,Terry Michael Ratzmann,Male,44,White,Yes,Yes,semi-automatic handgun,9mm Beretta semi-automatic handgun
+2004,"Dec 08,",Columbus,Ohio,Red,Other,Damageplan show shooting,5,7,12,Nathan Gale,Male,25,White,Yes,Yes,semi-automatic handgun,9mm Beretta 92FS semi-automatic handgun
+2003,"Jul 08,",Meridian,Mississippi,Red,Workplace,Lockheed Martin shooting,7,8,15,Douglas Williams,Male,48,White,Yes,Yes,"semi-automatic handgun, rifles, derringer, shotgun",".45-caliber Ruger P90 semi-automatic handgun, .22-caliber rifle with scope, .223-caliber Ruger Mini-14 rifle, 12-gauge Winchester 1300 shotgun, .22 Magnum derringer"
+2000,"Dec 26,",Wakefield,Massachusetts,Blue,Workplace,Wakefield massacre,7,0,7,Michael McDermott,Male,42,White,Yes,Yes,"semi-automatic handgun, assault rifle, shotgun",".32-caliber Retolaza semi-automatic handgun, AK-47 variant semi-automatic rifle, 12-gauge Winchester 1300 pump-action shotgun"
+1999,"Dec 30,",Tampa,Florida,Red,Workplace,Hotel shooting,5,3,8,Silvio Leyva,Male,36,Hispanic,Yes,Yes,"semi-automatic handgun, revolver",9mm Lorcin semi-automatic handgun; .38-caliber Charter Arms revolver
+1999,"Nov 02,",Honolulu,Hawaii,Blue,Workplace,Xerox killings,7,0,7,Byran Koji Uyesugi,Male,40,Asian,Yes,Yes,semi-automatic handgun,9mm Glock 17 semi-automatic handgun
+1999,"Sep 15,",Fort Worth,Texas,Red,Religious,Wedgwood Baptist Church shooting,8,7,15,Larry Gene Ashbrook,Male,47,White,Yes,Yes,Semi-automatic handguns,".380-caliber, 9mm Ruger P85 semi-automatic handguns"
+1999,"Jul 29,",Atlanta,Georgia,Blue,Workplace,Atlanta day trading spree killings,9,13,22,Mark O. Barton,Male,44,White,Yes,Yes,"Semi-automatic handguns, revolver",".45-caliber Colt 1911-A1, 9mm Glock 17, .25-caliber Raven Arms MP-25 semi-automatic handguns; .22-caliber Harrington & Richardson revolver"
+1999,"Apr 20,",Littleton,Colorado,Blue,School,Columbine High School massacre,13,24,37,Eric Harris,Male,17,White,Yes,No,"Semi-automatic handgun, assault rifle, shotguns","9mm Intratec DC-9 semi-automatic handgun; 9mm Hi-Point 995 carbine rifle; 12-gauge sawed-off Savage Stevens 311D, 12-gauge sawed-off Savage Springfield 67H pump-action shotguns"
+1998,"May 21,",Springfield,Oregon,Blue,School,Thurston High School shooting,4,25,29,Kipland P. Kinkel,Male,15,White,Yes,No,"Semi-automatic handguns, rifle","9mm Glock, .22-caliber Ruger semi-automatic handguns, .22-caliber Ruger rifle"
+1998,"Mar 24,",Jonesboro,Arkansas,Red,School,Westside Middle School killings,5,10,15,Mitchell Scott Johnson,Male,11,White,No,No,"Semi-automatic handguns, rifles, revolvers, derringers","FIE 380, .380-caliber Star semi-automatic handguns, .44 Magnum Ruger, .30-06 Remington 742, .30-caliber Universal M-1 carbine replica rifles, .38-caliber Charter Arms, .357-caliber Ruger Security Six, .38-caliber Smith & Wesson revolvers, .22-caliber Double Deuce Buddie two-shot, .38-caliber Davis Industries two-shot derringers"
+1998,"Mar 06,",Newington,Connecticut,Blue,Workplace,Connecticut Lottery shooting,5,1,6,Matthew Beck,Male,35,White,Yes,Yes,Semi-automatic handgun,9mm semi-automatic handgun
+1997,"Sep 15,",Aiken,South Carolina,Red,Workplace,R.E. Phelon Company shooting,4,3,7,Hastings Arthur Wise,Male,43,Black,No,No,Semi-automatic handgun,9mm semi-automatic handgun
+1996,"Feb 09,",Fort Lauderdale,Florida,Red,Workplace,Fort Lauderdale revenge shooting,6,1,7,Clifton McCree,Male,41,Black,Yes,Yes,"Semi-automatic handgun, revolver","9mm Glock semi-automatic handgun, .32-caliber revolver"
+1995,"Apr 03,",Corpus Christi,Texas,Red,Workplace,Walter Rossler Company massacre,6,0,6,James Daniel Simpson,Male,28,White,No,Yes,"Semi-automatic handgun, revolver","9mm Ruger semi-automatic handgun, .32-caliber revolver"
+1993,"Dec 14,",Aurora,Colorado,Blue,Workplace,Chuck E. Cheese's killings,4,1,5,Nathan Dunlap,Male,19,Black,U/D,U/D,Semi-automatic handgun,.25-caliber semi-automatic handgun
+1993,"Dec 07,",Garden City,New York,Blue,Other,Long Island Rail Road massacre,6,19,25,Colin Ferguson,Male,35,Black,Yes,Yes,Semi-automatic handgun,9mm Ruger P89 semi-automatic handgun
+1993,"Jul 01,",San Francisco,California,Blue,Other,101 California Street shootings,9,6,15,Gian Luigi Ferri,Male,55,White,No,No,Semi-automatic handguns,"Intratec DC-9, .45-caliber Colt semi-automatic handguns"
+1992,"Oct 15,",Watkins Glen,New York,Blue,Other,Watkins Glen killings,5,0,5,John T. Miller,Male,50,White,Yes,Yes,Semi-automatic handgun,9mm Llama semi-automatic handgun
+1991,"Oct 16,",Killeen,Texas,Red,Other,Luby's massacre,24,20,44,George Hennard,Male,35,White,No,Yes,Semi-automatic handguns,"9mm Glock 17, 9mm Ruger P89 semi-automatic handguns"
+1989,"Sep 14,",Louisville,Kentucky,Red,Workplace,Standard Gravure shooting,9,12,21,Joseph T. Wesbecker,Male,47,White,Yes,Yes,"Semi-automatic handguns, assault rifle, revolver","Intratec MAC-11, 9mm SIG Sauer semi-automatic handguns, AK-47 Chinese variant semi-automatic rifle, .38-caliber revolver"
+1989,"Jan 17,",Stockton,California,Blue,School,Stockton schoolyard shooting,6,29,35,Patrick Purdy,Male,26,White,Yes,Yes,"Semi-automatic handgun, assault rifle","9mm Taurus semi-automatic handgun, AK-47 Chinese variant semi-automatic rifle"
+1988,"Feb 16, ",Sunnyvale,California,Blue,Workplace,ESL shooting,7,4,11,Richard Farley,Male,39,White,Yes,Yes,"Semi-automatic handguns, rifle, revolvers, shotguns",".380 ACP Browning, 9mm Smith & Wesson semi-automatic handguns, Ruger M-77 .22-250 bolt-action rifle with scope, Mossberg 12-gauge pump-action, 12-gauge Benelli semi-automatic shotguns, .357 Magnum Smith & Wesson, .22 Sentinel WMR revolvers"
+1986,"Aug 20,",Edmond,Oklahoma,Red,Workplace,United States Postal Service shooting,15,6,21,Patrick Sherrill,Male,44,White,U/D,Yes,Semi-automatic handguns,".22-caliber, two .45-caliber Colt Model 1911-A1 semi-automatic handguns"
+1984,"Jul 18,",San Ysidro,California,Blue,Other,San Ysidro McDonald's massacre,22,19,41,James Oliver Huberty,Male,41,White,Yes,Yes,"Semi-automatic handgun, assault rifle, shotgun","9mm Browning P35 Hi-Power semi-automatic handgun, 9mm Israeli Military Industries Uzi Model A carbine semi-automatic rifle, 12-gauge Winchester 1200 pump-action shotgun"
+1984,"Jun 29,",Dallas,Texas,Red,Other,Dallas nightclub shooting,6,1,7,Abdelkrim Belachheb,Male,39,White,Yes,No,Semi-automatic handgun,9mm Smith & Wesson 459 semi-automatic handgun
+2022,"Jun 09,",Smithsburg,Maryland,Blue,workplace,Concrete company shooting,3,1,4,Joe Louis Esquivel,Male,23,Hispanic,U/D,U/D,U/D,U/D
+2022,"Feb 28,",Sacramento,California,Blue,Religious,Sacramento County church shooting,4,0,4,David Mora Rojas,Male,39,Hispanic,U/D,U/D,U/D,U/D
+2021,"Mar 16,",Atlanta,Georgia,Blue,Workplace,Atlanta massage parlor shootings,8,1,9,Robert Aaron Long,Male,21,White,U/D,U/D,U/D,U/D
+2020,"Mar 16,",Springfield,Missouri,Red,Workplace,Springfield convenience store shooting,4,0,4,Joaquin S. Roman,Male,31,Hispanic,U/D,U/D,U/D,U/D
+2019,"Dec 10,",Jersey City,New Jersey,Blue,Other,Jersey City kosher market shooting,4,3,7,David N. Anderson,Male & Female,47,Black,U/D,U/D,U/D,U/D
+2019,"May 31,",Virginia Beach,Virginia,Blue,Workplace,Virginia Beach municipal building shooting,12,4,16,DeWayne Craddock,Male,40,Black,U/D,Yes,Handguns,.45-caliber handguns
+2019,"Feb 15,",Aurora,Illinois,Blue,Workplace,Harry Pratt Co. warehouse shooting,5,6,11,Gary Martin,Male,45,Black,Yes,No,Handgun,Smith & Wesson handgun
+2019,"Jan 24,",State College,Pennsylvania,Blue,Other,Pennsylvania hotel bar shooting,3,1,4,Jordan Witmer,Male,21,White,U/D,Yes,Handgun,U/D
+2019,"Jan 23,",Sebring,Florida,Red,Workplace,SunTrust bank shooting,5,0,5,Zephen A. Xaver,Male,21,White,Yes,Yes,Handgun,9 mm handgun
+2018,"Sep 12,",Bakersfield,California,Blue,Workplace,T&T Trucking shooting,5,0,5,Javier Casarez,Male,54,Hispanic,U/D,Yes,Handgun,"Smith & Wesson Model 500, .50-caliber revolver"
+2018,"Jun 28,",Annapolis,Maryland,Blue,Workplace,Capital Gazette shooting,5,2,7,Jarrod W. Ramos,Male,38,White,U/D,Yes,Shotgun,12-gauge pump-action shotgun
+2018,"May 18,",Santa Fe,Texas,Red,School,Santa Fe High School shooting,10,13,23,Dimitrios Pagourtzis,Male,17,White,U/D,U/D,"Shotgun, .38 revolver",U/D
+2017,"Oct 18,",Edgewood,Maryland,Blue,Workplace,Edgewood businees park shooting,3,3,6,Radee Labeeb Prince,Male,37,Black,U/D,No,Handgun,.380-caliber
+2017,"Oct 01,",Las Vegas,Nevada,Blue,Other,Las Vegas Strip massacre,58,546,604,Stephen Craig Paddock,Male,64,White,U/D,Yes,"Rifles, scopes, modified ""fully automatic"" firearms","AR-15-style rifle, AK-47-style rifle, four Daniel Defense DDM4 rifles, FN-15s rifles, Sig Sauer rifles"
+2017,"Jun 14,",San Francisco,California,Blue,Workplace,San Francisco UPS shooting,3,2,5,Jimmy Lam,Male,38,Asian,Yes,No,Handguns,"MAC-10-style assault pistol"""
+2017,"Jun 07,",Tunkhannock,Pennsylvania,Blue,Workplace,Pennsylvania supermarket shooting,3,0,3,Randy Stair,Male,24,White,U/D,U/D,Shotguns,U/D
+2017,"May 12,",Kirkersville,Ohio,Red,Workplace,Rural Ohio nursing home shooting,3,0,3,Thomas Hartless,Male,43,White,Yes,U/D,"Handgun, shotgun",U/D
+2017,"Apr 18,",Fresno,California,Blue,Other,Fresno downtown shooting,3,0,3,Kori Ali Muhammad,Male,39,Black,U/D,U/D,Handgun,.357 revolver
+2016,"Sep 23,",Burlington,Washington,Blue,Other,Cascade Mall shooting,5,0,5,Arcan Cetin,Male,20,Arab,Yes,U/D,Rifle,Ruger .22-caliber
+2015,"Nov 27,",Colorado Springs,Colorado,Blue,Workplace,Planned Parenthood clinic,3,9,12,Robert Lewis Dear,Male,57,White,U/D,U/D,Long-gun,AK-47 style semi-automatic rifle
+2015,"Oct 31,",Colorado Springs,Colorado,Blue,Other,Colorado Springs shooting rampage,3,0,3,Noah Harpham,Male,33,White,U/D,Yes,"Handguns, rifle","AR-15 rifle, 9 mm pistol, .357 revolver"
+2015,"Oct 01,",Roseburg,Oregon,Blue,School,Umpqua Community College shooting,9,9,18,Chris Harper Mercer,Male,26,White,U/D,Yes,"Pistols, rifle","9 mm Glock pistol, .40 caliber Smith & Wesson, .40 caliber Taurus pistol, .556 caliber Del-Ton"
+2015,"Jun 17,",Charleston,South Carolina,Red,Religious,Charleston Church Shooting,9,1,10,Dylann Storm Roof,Male,21,White,U/D,Yes,Handgun,.45-caliber Glock
+2015,"Jun 11,",Menasha,Wisconsin,Blue,Other,Trestle Trail bridge shooting,3,1,4,Sergio Valencia del Toro,Male,27,Hispanic,Yes,Yes,Handguns,U/D
+2014,"Oct 24,",Marysville,Washington,Blue,School,Marysville-Pilchuck High School shooting,5,1,6,Jaylen Fryberg,Male,15,Native American,U/D,No,Handgun,Beretta .40-caliber handgun
+2014,"Apr 03,",Fort Hood,Texas,Red,Military,Fort Hood shooting 2,3,12,15,Ivan Lopez,Male,34,Hispanic,U/D,Yes,Handgun,.45-caliber Smith & Wesson handgun
+2014,"Feb 20,",Alturas,California,Blue,Other,Alturas tribal shooting,4,2,6,Cherie Lash Rhoades,Female,44,Native American,U/D,U/D,"Handguns, butcher knife",9mm semi-automatic handgun
+2013,"Sep 16,",Washington,D.C.,Blue,Military,Washington Navy Yard shooting,12,8,20,Aaron Alexis,Male,34,Black,Yes,Yes,"Sawed-off shotgun, .45-caliber handgun",Remington 870 Express 12-gauge shotgun; Beretta handgun
+2013,"Jun 07,",Santa Monica,California,Blue,Other,Santa Monica rampage,6,3,9,John Zawahri,Male,23,White,Yes,Yes,"Assault rifle, antique handgun",".223-caliber semi-automatic assault rifle, ""black powder"" handgun"
+2013,"Mar 13,",Herkimer County,New York,Blue,Other,Mohawk Valley shootings,5,2,7,Kurt Myers,Male,64,White,No,Yes,Shotgun,U/D
+2011,"Sep 06,",Carson City,Nevada,Blue,Other,IHOP shooting,5,7,12,Eduardo Sencion,Male,32,Hispanic,Yes,Yes,"Assault rifles, revolver","AK-47 Norinco Arms variant, AK-47 Romarm Cugir variant rifles; .38-caliber Colt revolver"
+2009,"Mar 29,",Carthage,North Carolina,Red,Other,Carthage nursing home shooting,8,3,11,Robert Stewart,Male,45,White,Yes,Yes,"Revolver, shotgun","Winchester 1300 pump-action shotgun, .357 Magnum revolver"
+2007,"Dec 05,",Omaha,Nebraska,Red,Other,Westroads Mall shooting,9,4,13,Robert A. Hawkins,Male,19,White,Yes,No,assault rifle,WASR-10 Century Arms semi-automatic rifle
+2007,"Oct 07,",Crandon,Wisconsin,Blue,Other,Crandon shooting,6,1,7,Tyler Peterson,Male,20,White,U/D,Yes,assault rifle,AR-15 SWAT semi-automatic rifle
+2007,"Feb 12,",Salt Lake City,Utah,Red,Other,Trolley Square shooting,6,4,10,Sulejman Talović,Male,18,White,U/D,U/D,"revolver, shotgun","Mossberg Maverick 88 Field shotgun, .38-caliber Smith & Wesson M36 revolver"
+2001,"Feb 05,",Melrose Park,Illinois,Blue,Workplace,Navistar shooting,5,4,9,William D. Baker,Male,66,Black,No,Yes,"rifles, revolver, shotgun","SKS 1954R, .30-caliber Winchester rifles, 12-gauge Remington pump-action shotgun, .38-caliber revolver"
+1997,"Dec 18,",Orange,California,Blue,Workplace,Caltrans maintenance yard shooting,5,2,7,Arturo Reyes Torres,Male,41,Hispanic,No,Yes,Assault rifle,7.62mm AK-47 Chinese variant semi-automatic rifle
+1994,"Jun 20,",Fairchild Air Force Base,Washington,Blue,Military,Air Force base shooting,5,23,28,Dean Allen Mellberg,Male,20,White,Yes,Yes,Assault rifle,MAK-90 semi-automatic rifle
+1993,"Aug 06,",Fayetteville,North Carolina,Red,Other,Luigi's shooting,4,8,12,Kenneth Junior French,Male,22,White,No,Yes,"Rifle, shotguns",".22-caliber rifle, two 12-gauge shotguns"
+1992,"May 01,",Olivehurst,California,Blue,School,Lindhurst High School shooting,4,10,14,Eric Houston,Male,20,White,No,Yes,"Rifle, shotgun",.22-caliber sawed-off rifle; 12-gauge pump-action shotgun
+1991,"Nov 14,",Royal Oak,Michigan,Blue,Workplace,Royal Oak postal shootings,5,5,10,Thomas McIlvane,Male,31,White,Yes,Yes,Rifle,.22-caliber Ruger sawed-off semi-automatic rifle
+1991,"Nov 01,",Iowa City,Iowa,Red,School,University of Iowa shooting,6,1,7,Gang Lu,Male,28,Asian,U/D,Yes,Revolver,.38-caliber Taurus revolver
+1990,"Jun 18,",Jacksonville,Florida,Red,Other,GMAC massacre,10,4,14,James Edward Pough,Male,42,Black,No,Yes,"Rifle, revolver",.30-caliber Universal M1 carbine rifle; .38-caliber revolver
+1987,"Apr 23,",Palm Bay,Florida,Red,Other,Shopping centers spree killings,6,14,20,William Cruse,Male,59,White,Yes,Yes,"Rifle, revolver, shotgun","Sturm, Ruger Mini-14 semi-automatic rifle, 20-gauge Winchester pump-action shotgun, .357 Ruger Blackhawk revolver"
+1982,"Aug 20,",Miami,Florida,Red,Other,Welding shop shooting,8,3,11,Carl Robert Brown,Male,51,White,Yes,Yes,Shotgun,Mossberg 500 Persuader pump-action shotgun with pistol grip
